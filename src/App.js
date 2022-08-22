@@ -3,6 +3,7 @@
 // import {Image} from "./components/Image"
 // import Navbar from "./components/Navbar";
 // import Practice from "./components/Practice";
+import Spinner from "./components/Spinner";
 import ProductList from "./components/ProductList";
 import TaskManager from "./components/TaskManager";
 // import Form from "./components/Form";
