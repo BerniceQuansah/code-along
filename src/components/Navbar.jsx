@@ -8,7 +8,7 @@ const links = [
     },
     {
         label: "ProductList",
-        to: "/product"
+        to: "/products"
     },
     {
         label: "TaskManager",
