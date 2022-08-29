@@ -5,7 +5,7 @@ import About from "./pages/About";
 import Home from "./pages/Home";
 import Contact from "./pages/Contact";
 import ProductList from "./pages/ProductList";
-import TaskManager from "./pages/TaskManager"
+import TaskManager from "./pages/TasksManager"
 import ProductDetail from "./pages/ProductDetail";
 import NotFound from "./pages/NotFound";
 
